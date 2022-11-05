@@ -1,4 +1,4 @@
-package authenication;
+package authentication;
 
 import org.json.simple.JSONObject;
 import org.testng.annotations.Test;
